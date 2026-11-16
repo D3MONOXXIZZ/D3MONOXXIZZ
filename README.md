@@ -1,6 +1,6 @@
 # Zain Kashif
 
-Software engineer working on mobile clients, runtime sandboxing, and systems programming.
+Software Developer working on mobile clients, runtime sandboxing, and systems programming.
 
 I build mobile applications, developer tooling, and systems software. My work focuses on low-latency interfaces, remote execution environments, and direct hardware audio/graphics pipelines.
 
